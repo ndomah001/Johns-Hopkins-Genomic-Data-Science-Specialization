@@ -14,21 +14,21 @@ This Specialization is designed to serve as both a standalone introduction to ge
 - Genomic technologies
 - Genome analysis
 
-  **Skills you'll gain:**
-  - Bioinformatics Algorithms
-  - Python Programming
-  - Biopython
-  - Genomics
-  - Statistics
-  - Data Science
-  - Computational Biology
-  - Samtools
-  - Command-Line Interface
-  - Unix
-  - Data Analysis
-  - R Programming
-  - Biostatistics
-  - Bioconductor
+ **Skills you'll gain:**
+ - Bioinformatics Algorithms
+ - Python Programming
+ - Biopython
+ - Genomics
+ - Statistics
+ - Data Science
+ - Computational Biology
+ - Samtools
+ - Command-Line Interface
+ - Unix
+ - Data Analysis
+ - R Programming
+ - Biostatistics
+ - Bioconductor
 
 **Courses:**
 1. [Introduction to Genomic Technologies]()
