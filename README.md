@@ -1,4 +1,4 @@
-# Johns-Hopkins-Genomic-Data-Science-Specialization
+# Johns Hopkins Genomic Data Science Specialization
 
 [Access to Specialization](https://www.coursera.org/specializations/genomic-data-science?action=enroll#outcomes)
 
